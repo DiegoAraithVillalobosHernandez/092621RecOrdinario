@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="U1ExamenOrdinario_4BVillalobosHernandezDiegoAraith:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>U1ExamenOrdinario_4BVillalobosHernandezDiegoAraith</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="U1ExamenOrdinario_4BVillalobosHernandezDiegoAraith-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="U1ExamenOrdinario_4BVillalobosHernandezDiegoAraith:war exploded" />
+    </root>
+  </artifact>
+</component>
